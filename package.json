@@ -1,0 +1,11 @@
+{
+  "name": "decors",
+  "version": "1.0.0",
+  "description": "a frontend website project for a home decor merchant website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herzlichkeit",
+  "license": "ISC"
+}
